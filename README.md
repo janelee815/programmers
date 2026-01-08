@@ -14,7 +14,7 @@
 ## 💡 Key Problems (다시 볼 문제)
 | 문제 이름 | 알고리즘 | 난이도 | 링크 |
 | :--- | :---: | :---: | :---: |
-| [PCCE 기출] 돗자리 | 완전탐색 | Level 1 | [코드 보러가기](./path/to/code) |
+| [PCCE 기출] 돗자리 | 완전탐색 | Level 1 | [코드 보러가기]([./path/to/code](https://school.programmers.co.kr/learn/courses/30/lessons/340198)) |
 | 추억 점수 | 구현 | Level 1 | [코드 보러가기](./path/to/code) |
 
 ## 🚀 Goal
